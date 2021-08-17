@@ -14,6 +14,6 @@ public class BasicWelcome {
         System.out.println("UC7 : Swap Two Numbers");
         System.out.println("UC8 : Even Odd Numbers");
         System.out.println("UC9 : Vowels and Consonents");
-        System.out.println("UC10 : Largest");
+        System.out.println("UC10 : Largest Number");
     }
 }
